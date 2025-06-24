@@ -11,5 +11,5 @@ Unblocks all files (recursevely) from a target folder passed as parameter.
 e.g.:
 
 ```powershell
-.\Unblock_Files.ps1 -TargetFolder "C:\MyFolder\"
+.\Unblock_Files.ps1 -path "C:\MyFolder\"
 ```
